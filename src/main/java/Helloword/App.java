@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello Wang Haichi" );
         System.out.println( "Hello Wang Hanchao" );
-
+        System.out.println( "Hello Wu duo" );
     }
 }
